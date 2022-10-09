@@ -1,0 +1,14 @@
+{
+"Ads":"true",
+"ads_type":"admob",
+"ads_native_type":"banner",
+"ad_one_by_one_ids":"false",
+"pinter":"/6499/example/interstitial",
+"pbanner":"/6499/example/banner",
+"pappopen":"/6499/example/app-open",
+"pnative":"/6499/example/native",
+"pcustomNative":"/6499/example/native",
+"fb_Interstitial_ids":"549167759165615_549190905829967",
+"fb_NativeFull_ids":"549167759165615_551513495597708",
+"fb_NativeBanner_ids":"549167759165615_549192715829786"
+}
